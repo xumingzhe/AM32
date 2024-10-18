@@ -1,7 +1,7 @@
 
 
 #ifndef USE_MAKE
-#define AIKON_SINGLE_F421
+// #define AIKON_SINGLE_F421
 // #define F031_DEV
 // #define FD6288_F051
 // #define IFLIGHT
