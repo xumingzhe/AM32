@@ -1,6 +1,7 @@
 
 
 #ifndef USE_MAKE
+#define AIKON_SINGLE_F421
 // #define F031_DEV
 // #define FD6288_F051
 // #define IFLIGHT
@@ -591,6 +592,7 @@
 #define HARDWARE_GROUP_AT_B
 #define HARDWARE_GROUP_AT_045
 #define USE_SERIAL_TELEMETRY
+#define MILLIVOLT_PER_AMP 27
 #endif
 
 #ifdef AT32DEV_F415
